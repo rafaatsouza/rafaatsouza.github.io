@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/rafatsouza
+facebook: rafatsouza
 # twitter: mytwitter
 # google: mygoogle
-instagram: https://www.instagram.com/rafaatsouza/
+instagram: rafaatsouza/
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/rafael-torres-souza
+linkedin: rafael-torres-souza
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/rafaatsouza
+github: rafaatsouza
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -53,7 +53,7 @@ github: https://github.com/rafaatsouza
 email: souza.t.rafael@gmailcom
 
 authors:
-    johndoe:
+    rafaeltorres:
         name: Rafael Torres
         bio: Brazilian Developer, graduating on UFMG
         external-image: false
