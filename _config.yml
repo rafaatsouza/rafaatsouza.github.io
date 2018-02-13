@@ -1,6 +1,6 @@
 # main text of home
 name: Rafael Torres
-bio: Brazilian Developer, graduating on UFMG
+bio: Brazilian developer, graduating on UFMG
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -56,7 +56,7 @@ email: souza.t.rafael@gmailcom
 authors:
     rafaeltorres:
         name: Rafael Torres
-        bio: Brazilian Developer, graduating on UFMG
+        bio: Brazilian developer, graduating on UFMG
         external-image: false
         picture: assets/images/profile.jpeg
 
