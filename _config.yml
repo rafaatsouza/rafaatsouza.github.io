@@ -1,6 +1,6 @@
 # main text of home
 title: Rafael Torres
-bio: Brazilian, Software Engineer, and Computer Science MSc student at UFMG
+bio: Brazilian, Software Engineer Manager at Wildlife Studios
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -44,7 +44,7 @@ email: souza.t.rafael@gmail.com
 authors:
   rafatorres:
     name: Rafael Torres
-    bio: Brazilian, Software Engineer, and Computer Science MSc student at UFMG
+    bio: Brazilian, Software Engineer Manager at Wildlife Studios
     external-image: false
     picture: assets/images/profile.jpeg
 
